@@ -1,0 +1,25 @@
+body{
+    background-color: #989191;
+}
+
+#game{
+    width: 1000px;
+    margin: 0 auto;
+}
+table {
+    width: 300px;
+    height: 300px;
+    margin: 0 auto;
+}
+td {
+    text-align: center;
+    background-color: #fff;
+    cursor: pointer;
+    width: 100px;
+    height: 100px;
+    font-size: 61px;
+}
+td:hover{
+    background-color: black;
+    color: #ffffff;
+}
